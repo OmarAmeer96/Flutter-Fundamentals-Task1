@@ -28,6 +28,7 @@ flutter --version
 
 ## Screenshots
 
-| Commands Used             | Output                    | Emulator Output           |
-| ------------------------- | ------------------------- | ------------------------- |
-| <img src="https://github.com/user-attachments/assets/17c03468-0f1f-49bc-80f9-c6d5b9dae58e" width="500"/> | <img src="https://github.com/user-attachments/assets/52810a7c-fc10-4614-b255-128b87b597d2" width="500"/> | <img src="https://github.com/user-attachments/assets/c80c543a-3e24-46f6-9765-62f6799f0db8" width="200"/> |
+| Flutter Versio Command    | Output                    | Emulator Output           | Flutter Create Command    |
+| ------------------------- | ------------------------- | ------------------------- | ------------------------- |
+| <img src="https://github.com/user-attachments/assets/17c03468-0f1f-49bc-80f9-c6d5b9dae58e" width="500"/> | <img src="https://github.com/user-attachments/assets/52810a7c-fc10-4614-b255-128b87b597d2" width="500"/> | <img src="https://github.com/user-attachments/assets/c80c543a-3e24-46f6-9765-62f6799f0db8" width="200"/> | <img src="https://github.com/user-attachments/assets/e114d0bb-6642-490c-9c79-257daaef0219" width="500"/> |
+
